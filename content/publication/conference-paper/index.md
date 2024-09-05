@@ -31,7 +31,7 @@ publication_short: In *ICW*
 abstract: “Because nothing brings family together / like intervention, I was graveside / by my mind, a vigilant memory”
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: “Because nothing brings family together / like intervention, I was graveside / by my mind, a vigilant memory”
 
 tags:
   - Alien Magazine
