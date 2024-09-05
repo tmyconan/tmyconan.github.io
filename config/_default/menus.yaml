@@ -7,8 +7,8 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: Poems
-    url: /#poems
+  - name: Publications
+    url: /#publications
     weight: 11
   - name: Photography
     url: /#photos
