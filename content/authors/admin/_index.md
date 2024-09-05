@@ -76,4 +76,5 @@ awards:
 ## About Me
 
 Conan Tan (he/they) is a queer Singaporean Chinese poet based between the UK and Singapore. Currently, he is working towards an undergraduate degree in Philosophy, Politics and Economics at the University of Oxford. 
+
 His poem 'Prodigal' was the winner of Singapore's 2022 National Poetry Competition, and his working manuscript was shortlisted for Sing Lit Station's 2023 Poetry Manuscript Bootcamp. Their poems have been published in Rattle, Alien, West Trade Review, HAD, The Lumiere Review, Quarterly Literary Review Singapore, and elsewhere. 
