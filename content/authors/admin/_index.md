@@ -3,7 +3,7 @@
 title: Conan Tan
 
 # Name pronunciation (optional)
-name_pronunciation: Conan Tan
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Conan
